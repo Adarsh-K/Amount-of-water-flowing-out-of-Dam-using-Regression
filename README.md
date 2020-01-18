@@ -1,4 +1,4 @@
-# I've used Regression to predict the amount of water outflowing a Dam using data regarding the change in water level in the dam. The code is in Matlab.
+# Used Regression to predict the amount of water outflowing a Dam using data regarding the change in water level in the dam. The code is in Matlab.
 Note: All the files are well documented and commented wherever I felt necessary
 
 Run the file named WateroutflowingDam.m which does the following:
